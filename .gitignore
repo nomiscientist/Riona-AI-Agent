@@ -67,9 +67,6 @@ web_modules/
 img.js
 # dotenv environment variables file
 twitter.js
-.env
-.env.test
-.env.production
 
 start.sh
 # parcel-bundler cache (https://parceljs.org/)
@@ -126,3 +123,4 @@ public/build
 
 # Plop js template files
 .plop-templates
+config.bat
